@@ -14,7 +14,7 @@ HTML5 Canvas for rendering the game
 CSS for styling and creating a polished, responsive look
 
 Vanilla JavaScript for game logic, animations, event handling, physics, collision detection, scoring, and controls
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Features**:-
 
@@ -26,7 +26,7 @@ Pixel-art style with smooth animations
 Restart button with witty, debt-themed messages
 
 Responsive gameplay that works across different screen sizes
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Disclaimer**:-
 
@@ -38,8 +38,7 @@ Kingfisher Debt Bird is a satirical, college-built twist on the classic Flappy B
 Instead of flapping a bird through pipes, you fly a Kingfisher Airlines plane through obstacles while battling a debt counter that starts in the billions. The more you survive, the more debt you “pay off.”
 
 The goal was never to create a serious game but to experiment with HTML5 Canvas, JavaScript game loops, and event-driven mechanics in a short burst of creativity. I made this in a single afternoon during college when I was bored between classes, fueled by coffee and the urge to build something ridiculous but playable.
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Intent**:-
 
@@ -49,7 +48,7 @@ To create something humorous and absurd while still being technically functional
 To use a real-world pop culture reference (Kingfisher’s downfall) in a lighthearted way.
 
 To practice rapid prototyping and game logic design without overthinking.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **How It Works**:-
 
@@ -63,13 +62,14 @@ Avoid hitting the Vijay Mallya mansion
 Watch your score go down as you “repay” the fictional debt
 
 Crash, laugh at the witty restart message, and try again
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Why This Exists**:-
 
 
 This isn’t a startup idea or a monetized product. It’s a silly, quick project that shows how even a non-serious idea can be turned into something playable in just a few hours.
 Sometimes, building without pressure or expectations leads to the most fun results.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **Disclaimer**:-
