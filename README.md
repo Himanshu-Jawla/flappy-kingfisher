@@ -1,4 +1,4 @@
-Kingfisher Debt Bird
+
 Kingfisher Debt Bird is a tongue-in-cheek remake of the classic Flappy Bird game, where instead of guiding a bird through pipes, you pilot the Kingfisher Airlines plane through financial obstacles. The score starts at the infamous debt amount the airline was once associated with, and every successful pass reduces the "debt".
 
 The intent of this project was purely for fun. I built it in a short burst of free time during college when I was bored and wanted to make something lighthearted. It’s not meant to be taken seriously, but it does showcase how quickly a functional and entertaining web game can be put together.
