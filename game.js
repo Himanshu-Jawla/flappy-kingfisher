@@ -143,3 +143,13 @@ function animate() {
 bgImg.onload = () => {
     animate();
 };
+
+function drawPlane() {
+    ctx.save();
+    ctx.translate(plane.x + plane.width / 2, plane.y + plane.height / 2);
+    ctx.rotate(plane.velocity * 0.025); // tilt based on vertical speed
+    ctx.drawImage(planeImg, -plane.width / 2, -plane.height / 2, plane.width, plane.height);
+    ctx.restore();
+}
+
+
